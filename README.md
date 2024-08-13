@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @kevlocode
+- 🌱 I’m currently learning JavaScript and React
+- 💞️ I’m looking to collaborate on anything related Web Dev
+- 📫 How to reach me kevin.sibiya.dev@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can do carpentry
